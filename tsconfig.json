@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "compilerOptions": {
+    "lib": ["es2022", "DOM"],
+    "types": ["node", "@playwright/test"],
+    "target": "es2022",
+    "module": "NodeNext",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "moduleResolution": "nodenext",
+    "baseUrl": "./",
+    "paths": {
+        "@helpers/*": ["helpers/*"],
+        "@pages/*": ["pages/*"],
+        "@api/*": ["api/*"],
+        "@constants/*": ["constants/*"],
+        "@tests/*": ["tests/*"],
+        "@fixtures/*": ["fixtures/*"],
+    },
+    "ignoreDeprecations": "6.0"
+  },
+  "ts-node": {
+    "require": ["tsconfig-paths/register"]
+  }
+}

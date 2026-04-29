@@ -1,0 +1,126 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - img [ref=e5]
+      - img [ref=e12] [cursor=pointer]
+      - generic [ref=e14]: Перейдіть у наш Telegram-бот, щоб отримувати нові запити на роботу перш, ніж вони з’являться на сайті!
+      - link "Перейти до Telegram-боту" [ref=e15] [cursor=pointer]:
+        - /url: undefined
+        - button "Перейти до Telegram-боту" [ref=e17]
+    - img [ref=e19] [cursor=pointer]
+    - generic [ref=e24]:
+      - banner [ref=e25]:
+        - generic [ref=e27]:
+          - button [ref=e29] [cursor=pointer]:
+            - img [ref=e30]
+          - link [ref=e32] [cursor=pointer]:
+            - /url: /
+            - img [ref=e34]
+      - main [ref=e40]:
+        - generic [ref=e43]:
+          - heading "Сервіс пошуку послуг спецтехніки" [level=1] [ref=e44]:
+            - text: Сервіс пошуку
+            - text: послуг спецтехніки
+          - generic [ref=e47]:
+            - img [ref=e49]
+            - textbox "Пошук оголошень або послуг" [ref=e51]
+        - generic [ref=e52]:
+          - heading "Послуги" [level=2] [ref=e53]
+          - generic [ref=e54]:
+            - generic [ref=e55] [cursor=pointer]: Популярні
+            - generic [ref=e56] [cursor=pointer]: Сільськогосподарські
+            - generic [ref=e57] [cursor=pointer]: Будівельні
+            - generic [ref=e58] [cursor=pointer]: Інші
+          - generic [ref=e59]:
+            - generic [ref=e60] [cursor=pointer]:
+              - img "Зображення послуги Підйомні роботи" [ref=e63]
+              - generic [ref=e64]: Підйомні роботи
+            - generic [ref=e65] [cursor=pointer]:
+              - img "Зображення послуги Транспортування вантажу та підйом на висоту" [ref=e68]
+              - generic [ref=e69]: Транспортування вантажу та підйом на висоту
+            - generic [ref=e70] [cursor=pointer]:
+              - img "Зображення послуги Буріння" [ref=e73]
+              - generic [ref=e74]: Буріння
+            - generic [ref=e75] [cursor=pointer]:
+              - img "Зображення послуги Навантажування та розвантажування матеріалів" [ref=e78]
+              - generic [ref=e79]: Навантажування та розвантажування матеріалів
+            - generic [ref=e80] [cursor=pointer]:
+              - img "Зображення послуги Вивіз побутового сміття" [ref=e83]
+              - generic [ref=e84]: Вивіз побутового сміття
+            - generic [ref=e85] [cursor=pointer]:
+              - img "Зображення послуги Риття траншей для підземних комунікацій" [ref=e88]
+              - generic [ref=e89]: Риття траншей для підземних комунікацій
+            - generic [ref=e90] [cursor=pointer]:
+              - img "Зображення послуги Заливка бетону" [ref=e93]
+              - generic [ref=e94]: Заливка бетону
+        - generic [ref=e95]:
+          - heading "Спецтехніка" [level=2] [ref=e96]
+          - generic [ref=e97]:
+            - heading "Популярна" [level=3] [ref=e98] [cursor=pointer]
+            - heading "Сільськогосподарська" [level=3] [ref=e99] [cursor=pointer]
+            - heading "Будівельна" [level=3] [ref=e100] [cursor=pointer]
+            - heading "Інша" [level=3] [ref=e101] [cursor=pointer]
+          - generic [ref=e102]:
+            - generic [ref=e103] [cursor=pointer]:
+              - generic [ref=e105]:
+                - img [ref=e107]
+                - img "Зображення спецтехніки Сівалки" [ref=e108]
+              - generic [ref=e109]: Сівалки
+            - generic [ref=e110] [cursor=pointer]:
+              - generic [ref=e112]:
+                - img [ref=e114]
+                - img "Зображення спецтехніки Трактори" [ref=e115]
+              - generic [ref=e116]: Трактори
+            - generic [ref=e117] [cursor=pointer]:
+              - generic [ref=e119]:
+                - img [ref=e121]
+                - img "Зображення спецтехніки Обприскувачі" [ref=e122]
+              - generic [ref=e123]: Обприскувачі
+            - generic [ref=e124] [cursor=pointer]:
+              - generic [ref=e126]:
+                - img [ref=e128]
+                - img "Зображення спецтехніки Екскаватори" [ref=e129]
+              - generic [ref=e130]: Екскаватори
+            - generic [ref=e131] [cursor=pointer]:
+              - generic [ref=e133]:
+                - img [ref=e135]
+                - img "Зображення спецтехніки Навантажувачі" [ref=e136]
+              - generic [ref=e137]: Навантажувачі
+            - generic [ref=e138] [cursor=pointer]:
+              - generic [ref=e140]:
+                - img [ref=e142]
+                - img "Зображення спецтехніки Підйомники" [ref=e143]
+              - generic [ref=e144]: Підйомники
+            - generic [ref=e145] [cursor=pointer]:
+              - generic [ref=e147]:
+                - img [ref=e149]
+                - img "Зображення спецтехніки Комунальні машини" [ref=e150]
+              - generic [ref=e151]: Комунальні машини
+        - generic [ref=e153]:
+          - img [ref=e154]
+          - generic [ref=e160]: Перейдіть у наш Telegram-бот, щоб отримувати нові запити на роботу перш, ніж вони з’являться на сайті!
+          - link "Перейти до Telegram-боту" [ref=e161] [cursor=pointer]:
+            - /url: undefined
+            - button "Перейти до Telegram-боту" [ref=e163]
+      - generic [ref=e165]:
+        - heading "У Вас залишилися питання?" [level=2] [ref=e166]
+        - generic [ref=e167]:
+          - textbox "Ім'я" [ref=e169]
+          - textbox "Номер телефону" [ref=e171]
+          - button "Замовити консультацію" [ref=e173] [cursor=pointer]
+      - list [ref=e174]:
+        - listitem [ref=e175]:
+          - img [ref=e177]
+          - generic [ref=e179]: Головна
+        - listitem [ref=e180]:
+          - img [ref=e182]
+          - generic [ref=e184]: Карта
+        - listitem [ref=e185]:
+          - img [ref=e187]
+        - listitem [ref=e189]:
+          - img [ref=e191]
+          - generic [ref=e193]: Сповіщення
+        - listitem [ref=e194]:
+          - img [ref=e196]
+          - generic [ref=e198]: Профіль
+  - alert [ref=e199]
